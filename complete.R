@@ -14,3 +14,7 @@ rawDfr <- read.csv(fileStr)
         print(summary(rawDfr))}
         
 return(rawDfr)}
+
+complete("specdata", 1)
+   id nobs
+1  1  117
